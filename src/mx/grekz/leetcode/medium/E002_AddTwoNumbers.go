@@ -1,4 +1,4 @@
-package easy
+package medium
 
 type ListNode struct {
 	Val  int
